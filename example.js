@@ -1,6 +1,6 @@
 'use strict';
 
-const LightningClient = require('lightning-client');
+const LightningClient = require('./lightning-client');
 // const LightningClient = require('./index');
 
 // This should point to your lightning-dir, by default in ~/.lightning.
